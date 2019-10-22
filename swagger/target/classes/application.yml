@@ -1,0 +1,7 @@
+swagger:
+  title: SpringBoot学习
+  description: SpringBoot快速入门
+  version: 1.0.0
+  name: 稀客大大
+  url: http://accp.site
+  email: 877058128@qq.com

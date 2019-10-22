@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "com.shangke.swagger.Swagger",
+      "sourceType": "com.shangke.swagger.Swagger"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
