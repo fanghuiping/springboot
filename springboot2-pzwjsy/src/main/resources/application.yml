@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  # 激活多配置文件
+spring:
+  profiles:
+    active: prod
