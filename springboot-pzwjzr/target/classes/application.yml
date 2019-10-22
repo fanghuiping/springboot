@@ -1,0 +1,15 @@
+# 配置文件注入不能够读取中文
+user:
+  id: 1
+  username: 方慧平
+  pwd: 123456
+
+
+swagger:
+  name: 方慧平
+  url: https:4399.com
+  email: kkry100@qq.com
+  title: SpringBoot注入
+  descriotion: SpringBoot 单值注入  SpringBoot 多值注入
+  version: 1.0.0
+

@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.shangke.springbootpzwjzr.bean.Person",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "swagger",
+      "type": "com.shangke.springbootpzwjzr.seagger",
+      "sourceType": "com.shangke.springbootpzwjzr.seagger"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.sql.Date",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.shangke.springbootpzwjzr.bean.Dog",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.shangke.springbootpzwjzr.bean.Person"
+    },
+    {
+      "name": "swagger.descriotion",
+      "type": "java.lang.String",
+      "sourceType": "com.shangke.springbootpzwjzr.seagger"
+    },
+    {
+      "name": "swagger.email",
+      "type": "java.lang.String",
+      "sourceType": "com.shangke.springbootpzwjzr.seagger"
+    },
+    {
+      "name": "swagger.name",
+      "type": "java.lang.String",
+      "sourceType": "com.shangke.springbootpzwjzr.seagger"
+    },
+    {
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.shangke.springbootpzwjzr.seagger"
+    },
+    {
+      "name": "swagger.url",
+      "type": "java.lang.String",
+      "sourceType": "com.shangke.springbootpzwjzr.seagger"
+    },
+    {
+      "name": "swagger.version",
+      "type": "java.lang.String",
+      "sourceType": "com.shangke.springbootpzwjzr.seagger"
+    }
+  ],
+  "hints": []
+}
